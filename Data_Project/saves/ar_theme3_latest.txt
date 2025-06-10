@@ -1,0 +1,22 @@
+SaveID: ar_theme3_latest
+Timestamp: Mon May 12 18:14:21 2025
+PlayerID: ar
+PlayerPosition: 22 0
+Enemy0Position: 24 208
+Enemy1Position: 450 300
+Enemy2Position: 27 300
+Enemy3Position: 408 408
+Tiles:
+22 1
+21 1
+20 1
+19 1
+18 1
+17 1
+16 1
+15 1
+14 1
+13 1
+12 1
+11 1
+10 1

@@ -1,0 +1,39 @@
+SaveID: rauf_theme1_latest
+Timestamp: Sun Jun  1 21:48:42 2025
+PlayerID: rauf
+PlayerPosition: 18 0
+Enemy0Position: 401 199
+Enemy1Position: 248 196
+Enemy2Position: 404 404
+Enemy3Position: 300 126
+Tiles:
+18 2
+17 2
+16 2
+15 2
+14 2
+13 2
+12 2
+11 2
+10 2
+9 2
+8 2
+7 2
+6 2
+5 2
+4 2
+18 1
+17 1
+16 1
+15 1
+14 1
+13 1
+12 1
+11 1
+10 1
+9 1
+8 1
+7 1
+6 1
+5 1
+4 1
