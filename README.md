@@ -91,3 +91,27 @@ See the `LICENSE` file in the repository for the license text.
 ---
 
 ## 📸 Screenshots
+
+![1](https://github.com/user-attachments/assets/320d05cc-761f-441e-baed-d12d6a07a84f)
+![2](https://github.com/user-attachments/assets/4c5286e0-d399-4bca-942c-8002132f1983)
+![3](https://github.com/user-attachments/assets/e1459e9d-ccaa-4a9a-bbc3-45bb4efd2fc9)
+![4](https://github.com/user-attachments/assets/66a378f2-81ad-4b52-bd0c-a2e01a6bc615)
+![5](https://github.com/user-attachments/assets/a9fe0bd5-c16a-4b46-bcd3-86ee88b20f10)
+![6](https://github.com/user-attachments/assets/24ce2f14-586c-4211-8ec0-d0d4947a35b2)
+![7](https://github.com/user-attachments/assets/ef713c8a-cbac-4a1d-ae74-a5e04edc38ee)
+![8](https://github.com/user-attachments/assets/5957e687-89df-482d-8f5e-c6fc0032339a)
+![9](https://github.com/user-attachments/assets/a132edb5-1d2e-4de3-a832-eae29551fe60)
+![10](https://github.com/user-attachments/assets/9acc59d4-c08e-420d-98ed-a4a91ffb426c)
+![11](https://github.com/user-attachments/assets/f40d6c72-7232-40e7-8de0-a5aa765a92d7)
+![12](https://github.com/user-attachments/assets/8935cfee-76c0-4aef-a4b9-fdcc570e8b8b)
+![13](https://github.com/user-attachments/assets/32574c4e-5f5f-4ab0-bb42-e4066440ddff)
+![14](https://github.com/user-attachments/assets/1ca11d00-8016-421b-9519-011a5fdab23e)
+![15](https://github.com/user-attachments/assets/348fc50a-5df6-427e-a591-a752d7e8749f)
+![16](https://github.com/user-attachments/assets/8443c93f-ee36-450c-8688-c053892d4d97)
+![17](https://github.com/user-attachments/assets/ac073945-c679-4e6c-9704-97671eb00b96)
+![18](https://github.com/user-attachments/assets/1b532afa-4d31-4e94-a888-46ba829c9ecf)
+![19](https://github.com/user-attachments/assets/e7806846-a1eb-4da2-92a0-69c8a3e6ca3e)
+![20](https://github.com/user-attachments/assets/2d67a640-ef56-4689-8e9e-4bad59a0d50d)
+
+
+
